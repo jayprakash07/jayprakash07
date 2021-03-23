@@ -1,6 +1,6 @@
 ### Hi there, I'm Jay - aka [Jayprakash07][website] 👋
 
-[![Website](https://img.shields.io/website?color=light&label=jayprakashpathak.me&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fimg.shields.io%2Fwebsite%2Fhttp%2Fjayprakashpathak.me)](www.jayprakashpathak.me)
+[![Website](https://img.shields.io/website?color=light&label=jayprakashpathak.me&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fimg.shields.io%2Fwebsite%2Fhttp%2Fjayprakashpathak.me)](jayprakashpathak.me)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jayprakashpathak07)
 
 
