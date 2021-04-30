@@ -7,7 +7,7 @@
 ## I'm a Student, Developer, Writer and Percussionist!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with others for hackathons
+- 👯 I’m looking to collaborate with others for projects
 - 📝 I write articles on Medium for beginners learning to code
 - 🥅 2021 Goals: Learn and develop more projects
 - ⚡ Fun fact: I like to build computers and play drums
