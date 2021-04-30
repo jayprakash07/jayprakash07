@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others for hackathons
 - 📝 I write articles on Medium for beginners learning to code
-- 🥅 2021 Goals: Improve my coding skills
-- ⚡ Fun fact: I love to build computers and play drums
+- 🥅 2021 Goals: Learn and develop more projects
+- ⚡ Fun fact: I like to build computers and play drums
 
 ### Connect with me:
 
