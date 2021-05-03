@@ -1,6 +1,6 @@
 ### Hi there, I'm Jay - aka [Jayprakash07][website] 👋
 
-[![Website](https://img.shields.io/website?color=light&label=jayprakashpathak.me&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fimg.shields.io%2Fwebsite%2Fhttp%2Fjayprakashpathak.me)](www.jayprakashpathak.me)
+[![Website](https://img.shields.io/website?color=light&label=jayprakashpathak.me&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fimg.shields.io%2Fwebsite%2Fhttp%2Fjayprakashpathak.me)](http://www.jayprakashpathak.me/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jayprakashpathak07)
 
 
@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="jayprakashpathak.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="http://www.jayprakashpathak.me/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Jayprakash07 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
