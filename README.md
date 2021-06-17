@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?color=light&label=jayprakashpathak.me&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fimg.shields.io%2Fwebsite%2Fhttp%2Fjayprakashpathak.me)](https://www.jayprakashpathak.me/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jayprakashpathak07)
-[![Devpost | PortFolio](https://img.shields.io/static/v1?lurl=url=https://devpost.com/jayprakash07&label=Devpost&message=Portfolio&color=blue&style=for-the-badge&logo=Devpost)
+![Devpost | PortFolio](https://img.shields.io/static/v1?lurl=url=https://devpost.com/jayprakash07&label=Devpost&message=Portfolio&color=blue&style=for-the-badge&logo=Devpost)
 
 
 ## I'm a Student, Developer, Writer and Percussionist!!
