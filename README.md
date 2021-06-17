@@ -29,9 +29,6 @@
 <img align="left" alt="Python" width="100px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img align="left" alt="Java" width="100px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img align="left" alt="React" width="100px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="left" alt="Kali Linux" width="150px" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-<img align="left" alt="Unity" width="100px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-
 
 <br />
 <br />
