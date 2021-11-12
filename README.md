@@ -1,12 +1,10 @@
-### Hi there, I'm Jay - aka [Jayprakash07][website](https://www.jayprakashpathak.me) 👋
+⭐️ I am [Jaimil Dalwadi](https://github.com/theDe-bugger/), a 17 year old developer with broad exprience in software development and project management, developed through multiple hackathon-winning projects.
 
-## I'm a Student, Developer, Writer and Percussionist!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with others for projects
-- 📝 I write articles on Medium for beginners learning to code
-- 🥅 2021 Goals: Learn and develop more projects
-- ⚡ Fun fact: I like to build computers and play drums
+- 🌱 I’m currently learning everything. 🤣
+- 👯 I’m looking to collaborate with others for projects.
+- 📝 I write articles on Medium for beginners learning to code.
+- 🥅 2021 Goals: Learn and develop more projects.
+- ⚡ Fun fact: I like to build computers and play drums.
 
 
 ### 🤝 Connect with me!<br>
