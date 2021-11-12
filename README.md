@@ -1,4 +1,4 @@
-⭐️ I am [Jaimil Dalwadi](https://github.com/theDe-bugger/), a 17 year old developer with broad exprience in software development and project management, developed through multiple hackathon-winning projects.
+⭐️ I am [Jayprakash Pathak](https://github.com/jayprakash07/), a 17 year old developer with broad exprience in software development and project management, developed through multiple hackathon-winning projects.
 
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with others for projects.
