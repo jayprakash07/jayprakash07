@@ -1,9 +1,4 @@
-### Hi there, I'm Jay - aka [Jayprakash07][website] 👋
-
-[![Website](https://img.shields.io/website?color=light&label=jayprakashpathak.me&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fimg.shields.io%2Fwebsite%2Fhttp%2Fjayprakashpathak.me)](https://www.jayprakashpathak.me/)
-[![Devpost | PortFolio](https://img.shields.io/static/v1?lurl=url=https://devpost.com/jayprakash07&label=Devpost&message=Portfolio&color=blue&style=for-the-badge&logo=Devpost)](https://devpost.com/jayprakash07)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jayprakashpathak07)
-
+### Hi there, I'm Jay - aka [Jayprakash07][website](https://www.jayprakashpathak.me) 👋
 
 ## I'm a Student, Developer, Writer and Percussionist!!
 
@@ -13,12 +8,9 @@
 - 🥅 2021 Goals: Learn and develop more projects
 - ⚡ Fun fact: I like to build computers and play drums
 
-### Connect with me:
 
-[<img align="left" alt="http://www.jayprakashpathak.me/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Jayprakash07 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+### 🤝 Connect with me!<br>
+<a href="https://www.linkedin.com/in/jayprakash-pathak-3768aa1a9/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/jayprakash.svg" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://devpost.com/jayprakash07/" alt="Devpost"><img src="https://logo-logos.com/wp-content/uploads/2016/10/Devpost_logo_image_picture.png" height = "30" width = "120"></a> <a href="mailto:jayprakashpathak07@gmail.com" alt="Contact me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 ### 🚀 Languages I've Used: 
 <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -39,8 +31,6 @@
 
 ---
 
-[website]: https://www.jayprakashpathak.me/
-[linkedin]: https://www.linkedin.com/feed/
 
 
 
