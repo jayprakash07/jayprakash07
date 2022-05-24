@@ -17,8 +17,9 @@
 ### ⚙️ Tools I've Used:
 <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"> <img src = "https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"> <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> 
 
-### Hackathons I've Done:
+### 👨‍💻 Hackathons I've Done:
 [![Devpost | Neighbor Network](https://badges.devpost-shields.com/get-badge?name=Neighbor%20Network&id=neighbor-network&type=big-logo&style=for-the-badge)](https://devpost.com/software/neighbor-network)
+[![Devpost | Ecoholics](https://badges.devpost-shields.com/get-badge?name=Ecoholics&id=ecoholics&type=big-logo&style=for-the-badge)](https://devpost.com/software/ecoholics)
 ---
 
 ### 📝 Latest Articles:
