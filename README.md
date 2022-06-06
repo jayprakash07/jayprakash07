@@ -1,6 +1,6 @@
 <img src = "IMG_2443.jpg"/>
 
-⭐️ I am [Jayprakash Pathak](https://github.com/jayprakash07/), a 17 year old developer with broad exprience in software development and project management, developed through multiple hackathon-winning projects. Most of my projects consist of web-applications accessible to anyone on the Internet, but I have also looked into application development💻 , competitive programming 🥇, ethical hacking and AI/Machine Learning. Visit [my site](https://www.jayprakashpathak.me) to learn more about me!
+⭐️ I am [Jayprakash Pathak](https://github.com/jayprakash07/), a 18 year old developer with broad exprience in software development and project management, developed through multiple hackathon-winning projects. Most of my projects consist of web-applications accessible to anyone on the Internet, but I have also looked into application development💻 , competitive programming 🥇, ethical hacking and AI/Machine Learning. Visit [my site](https://www.jayprakashpathak.me) to learn more about me!
 
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with others for projects.
