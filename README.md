@@ -1,10 +1,10 @@
 Hi 👋 My name is Jayprakash Pathak
 ==================================
 
-Web Developer
+Software Engineer
 -------------
 
-18-year-old web developer with broad experience in software development and project management developed through multiple hackathon-winning projects. Most of my projects consist of web applications accessible to anyone on the Internet.
+18-year-old software engineer with broad experience in software development and project management developed through multiple hackathon-winning projects. Most of my projects consist of web applications accessible to anyone on the Internet.
 
 * 🌍  I'm based in Toronto, CA
 * 🖥️  See my portfolio at [MySite](http://jayprakashpathak.me)
