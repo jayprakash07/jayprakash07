@@ -7,7 +7,7 @@ Software Engineer
 18-year-old software engineer with broad experience in software development and project management developed through multiple hackathon-winning projects. Most of my projects consist of web applications accessible to anyone on the Internet.
 
 * 🌍  I'm based in Toronto, CA
-* 🖥️  See my portfolio at [My Website](https://jayprakashpathak.me)
+* 🖥️  See my portfolio at [MySite](https://jayprakashpathak.me)
 * ✉️  You can contact me at [jayprakashpathak07@gmail.com](mailto:jayprakashpathak07@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I like to build computers.
