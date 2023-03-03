@@ -6,7 +6,7 @@ Software Developer
 A first-year Computer Science student with broad experience in software development and project management developed through multiple hackathon-winning projects.
 Most of my projects consist of web applications accessible to anyone on the Internet.
 
-* 🌍  I'm based in Toronto, CA
+* 🌍  I'm based in Waterloo, ON
 * 🖥️  See my portfolio at [MySite](https://itsjaypathak.me)
 * ✉️  You can contact me at [jayprakashpathak07@gmail.com](mailto:jayprakashpathak07@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
