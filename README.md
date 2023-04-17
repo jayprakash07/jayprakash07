@@ -1,4 +1,4 @@
-Hi 👋 My name is Jayprakash Pathak
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jayprakash Pathak
 ==================================
 
 Software Developer
@@ -7,10 +7,13 @@ A first-year Computer Science student with broad experience in software developm
 Most of my projects consist of web applications accessible to anyone on the Internet.
 
 * 🌍  I'm based in Toronto, CA
-* 🖥️  See my portfolio at [MySite](https://itsjaypathak.me)
+* 🖥️  See my portfolio at [itsjaypathak.me](https://itsjaypathak.me)
 * ✉️  You can contact me at [jayprakashpathak07@gmail.com](mailto:jayprakashpathak07@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I like to work on tech in my free-time.
+
+<a href="https://www.github.com/jayprakash07" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/jayprakash07?logo=github&style=for-the-badge&color=f44336&labelColor=1c1917" /></a>
 
 ### Skills
 
