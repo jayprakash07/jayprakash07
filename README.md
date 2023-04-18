@@ -10,7 +10,7 @@ Most of my projects consist of web applications accessible to anyone on the Inte
 * 🖥️  See my portfolio at [itsjaypathak.me](https://itsjaypathak.me)
 * ✉️  You can contact me at [jayprakashpathak07@gmail.com](mailto:jayprakashpathak07@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I like to work on tech in my free-time.
+* ⚡  I like to work on tech in my free-time
 
 <a href="https://www.github.com/jayprakash07" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jayprakash07?logo=github&style=for-the-badge&color=f44336&labelColor=1c1917" /></a>
