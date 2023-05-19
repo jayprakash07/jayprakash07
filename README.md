@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayprakash Pathak</h1>
 <h3 align="center">A first-year Computer Science student at Wilfrid Laurier University with broad experience in software development and project management developed through multiple hackathon-winning projects.</h3>
 
-<p align="left"> ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+<p align="left"> ![](https://komarev.com/ghpvc/?username=jayprakash07&style=flat-square)
 
 
 - 🔭 I’m currently working on a **Sorting Visualizer**
