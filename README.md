@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayprakash07&label=Profile%20views&color=0e75b6&style=flat" alt="jayprakash07" /> </p>
 
 
-- 🔭 I’m currently working on **Sorting Visualizer**
+- 🔭 I’m currently working on a **Sorting Visualizer**
 
 - 🤝 I’m looking for help with [Chernobyl Archival Website](https://itsjaypathak.me/Chernobyl-Archival-Website/)
 
