@@ -1,9 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jayprakash Pathak
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4444&width=435&lines=Hi!+I'm+Jay.;Thank+you+visiting.)](https://git.io/typing-svg)
 ==================================
 
 Software Developer
 -------------
-A first-year Computer Science student with broad experience in software development and project management developed through multiple hackathon-winning projects.
+A first-year Computer Science student at Wilfrid Laurier University with broad experience in software development and project management developed through multiple hackathon-winning projects.
 Most of my projects consist of web applications accessible to anyone on the Internet.
 
 * 🌍  I'm based in Toronto, CA
