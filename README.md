@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=jayprakash07&color=f44336&style=for-the-badge)
 
 
-- 🔭 I’m currently working on a **Sorting Visualizer**
+- 🔭 I’m currently working on a **Convolutional Neural Network**
 
 - 🤝 I’m looking for help with [Chernobyl Archival Website](https://itsjaypathak.me/Chernobyl-Archival-Website/)
 
