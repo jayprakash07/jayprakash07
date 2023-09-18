@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a **Convolutional Neural Network**
 
-- 🤝 I’m looking for help with [Chernobyl Archival Website](https://itsjaypathak.me/Chernobyl-Archival-Website/)
+- 🤝 I’m looking for help with [Chernobyl Archival Website](https://github.com/jayprakash07/Chernobyl-Archival-Site)
 
 - 👨‍💻 All of my projects are available at [https://itsjaypathak.me](https://itsjaypathak.me)
 
