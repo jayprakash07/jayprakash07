@@ -27,4 +27,3 @@
 
 <a href="http://www.github.com/jayprakash07"><img src="https://github-readme-stats.vercel.app/api?username=jayprakash07&show_icons=true&hide=&count_private=true&title_color=f44336&text_color=f44336&icon_color=f44336&bg_color=151515&hide_border=true&show_icons=true" alt="jayprakash07's GitHub stats" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jayprakash07&theme=dark&hide_border=true&sideLabels=F44336&sideNums=F44336&ring=F44336&fire=F44336&currStreakLabel=F44336&currStreakNum=F44336)](https://git.io/streak-stats)
