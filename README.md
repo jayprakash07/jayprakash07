@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayprakash Pathak</h1>
-<h3 align="center">A student with broad experience in software development and project management developed through multiple hackathon-winning projects.</h3>
+<h3 align="center">A business technology management student with broad experience in software development and project management developed through multiple hackathon-winning projects.</h3>
 
 ![](https://komarev.com/ghpvc/?username=jayprakash07&color=f44336&style=for-the-badge)
 
