@@ -18,8 +18,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/jayprakash-pathak" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jayprakash-pathak"/></a>
 <a href="https://devpost.com/jayprakash07" target="blank"><img align="center" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="jayprakash.svg"/></a>
-<a href="https://medium.com/@jayprakashpathak07" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@jayprakashpathak07"/></a>
-<a href="https://instagram.com/jayprakash.svg" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="jayprakash.svg"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
