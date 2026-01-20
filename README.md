@@ -12,7 +12,7 @@
 
 - 📫 You can reach me at: **jayprakashpathak07@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://itsjaypathak.me/static/Resume.pdf)
+- 📄 Know about my experiences [Resume](https://itsjaypathak.me/static/Jayprakash Pathak - Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
