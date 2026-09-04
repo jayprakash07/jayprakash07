@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://itsjaypathak.me](https://itsjaypathak.me)
 
-- 📫 You can reach me at: **jayprakashpathak07@gmail.com**
+- 📫 You can reach me at: **jayprakash.pathak@torontomu.ca**
 
 - 📄 Know about my experiences [Resume](https://itsjaypathak.me/static/Jayprakash%20Pathak%20-%20Resume.pdf)
 
